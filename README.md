@@ -5,3 +5,8 @@
 - add your nickname to USERLIST.md
 - push to your forked repository
 - Create Pull Request
+It's just an example repo so that people can use it to learn Git.
+
+## Contributor
+
+1. [isnizuliani](https://github.com/isnizuliani)
